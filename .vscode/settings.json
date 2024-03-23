@@ -1,0 +1,7 @@
+{
+    "yaml.schemas": {
+        "https://json.schemastore.org/github-action.json": "file:///Users/aminbista/Desktop/learning/terraform/vpc/.github/.workflows/deploy.yml"
+    },
+    "yaml.completion": true,
+    "yaml.validate": false
+}
